@@ -15,3 +15,5 @@ publish:
         repo: amriksin/cicd_demoapp
         tag: latest
         username: amriksin
+	password:3M!tharuuk
+	email: amriksin@cisco.com
