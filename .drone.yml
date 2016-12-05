@@ -1,7 +1,4 @@
 
-CICD Stage 1: Continuous Integration
-Update the .drone.yml configuration
-
 build:
     build_starting:
         image: python:2
